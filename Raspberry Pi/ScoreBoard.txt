@@ -1,0 +1,3 @@
+YYB 6
+ALICE 0
+BILL 0
