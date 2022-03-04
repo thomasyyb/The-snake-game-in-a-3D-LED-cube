@@ -1,4 +1,4 @@
 # The-snake-game-in-a-3D-LED-cube
 
-https://thomasyyb.github.io/ Here's the website for our project!
-The video hasn't been uploaded yet...but you can take a look at our documentation of the process!
+https://youtu.be/IC-NdljcPVU Take a look at the Demo video!
+https://thomasyyb.github.io/ Detailed process of building this project is here~
